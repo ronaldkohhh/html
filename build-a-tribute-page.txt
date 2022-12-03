@@ -1,5 +1,3 @@
-** start of undefined **
-
 <!DOCTYPE html>
 <html>
   <head>
@@ -224,7 +222,3 @@ blockquote {
   margin: 0 auto 50px auto;
   text-align: left;
 }
-
-
-** end of undefined **
-

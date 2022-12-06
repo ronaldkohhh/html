@@ -34,7 +34,7 @@
       <div class="container"></div>
 
       <section id="hero">
-        <h2>Handcrafted, home-made masterpieces</h2>
+        <h2>Subscribe to our newsletter to find out more:</h2>
         <form id="form" action="https://www.freecodecamp.com/email-submit">
           <input
             name="email"
@@ -95,13 +95,13 @@
         </section>
         <section id="pricing">
           <div class="product" id="tenor">
-            <div class="level">Tenor Trombone</div>
+            <div class="level">Basic Trombone</div>
             <h2>$600</h2>
             <ol>
-              <li>Lorem ipsum.</li>
-              <li>Lorem ipsum.</li>
-              <li>Lorem ipsum dolor.</li>
-              <li>Lorem ipsum.</li>
+              <li>Basic</li>
+              <li>Wood</li>
+              <li>Affordable</li>
+              <li>Available in Black, Blue, Green</li>
             </ol>
             <button class="btn">Select</button>
           </div>
@@ -109,10 +109,10 @@
             <div class="level">Bass Trombone</div>
             <h2>$900</h2>
             <ol>
-              <li>Lorem ipsum.</li>
-              <li>Lorem ipsum.</li>
-              <li>Lorem ipsum dolor.</li>
-              <li>Lorem ipsum.</li>
+              <li>Intermediate</li>
+              <li>Classic</li>
+              <li>Mid-range</li>
+              <li>Available in Black, Blue, Green</li>
             </ol>
             <button class="btn">Select</button>
           </div>
@@ -122,8 +122,8 @@
             <ol>
               <li>Plays similar to a Trumpet</li>
               <li>Great for Jazz Bands</li>
-              <li>Lorem ipsum dolor.</li>
-              <li>Lorem ipsum.</li>
+              <li>Made of Gold</li>
+              <li>Available in Black, Blue, Green</li>
             </ol>
             <button class="btn">Select</button>
           </div>
@@ -134,7 +134,7 @@
             <li><a href="#">Terms</a></li>
             <li><a href="#">Contact</a></li>
           </ul>
-          <span>Copyright 2016, Original Trombones</span>
+          <span>Original Trombones, 2022</span>
         </footer>
       </div>
     </div>

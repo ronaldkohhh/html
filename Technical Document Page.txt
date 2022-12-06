@@ -7,7 +7,7 @@
   </head>
   <body>
     <nav id="navbar">
-      <header>JS Documentation</header>
+      <header>JavaScript Documentation</header>
       <ul>
         <li><a class="nav-link" href="#Introduction">Introduction</a></li>
         <li>
@@ -446,7 +446,7 @@
         <article>
           <ul>
             <li>
-              All the documentation in this page is taken from
+              Documentation in this page is taken from
               <a
                 href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide"
                 target="_blank"
